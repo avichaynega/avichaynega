@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning at Ariel Unversity ,third year Computer Science student.
+
+#### Programming languages:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50" /> <img src="https://i0.wp.com/evomics.org/wp-content/uploads/2011/09/python-logo-glassy.png?fit=286%2C364" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/he/0/05/Java_Logo.svg.png" width="50" height="50" />
