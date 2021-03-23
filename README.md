@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50" /> <img src="https://i0.wp.com/evomics.org/wp-content/uploads/2011/09/python-logo-glassy.png?fit=286%2C364" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/he/0/05/Java_Logo.svg.png" width="50" height="50" />
 #### Databases:
 <img src="https://cdn2.iconfinder.com/data/icons/line-design-database-set-4/21/sql-badge-512.png" width="80" height="50"/> <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" width="80" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" width="80" height="50"/> 
+
+#### Applications:
+<img src="https://www.bugfixblog.com/wp-content/uploads/2017/01/android-studio-logo.png" width="80" height="50"/>
