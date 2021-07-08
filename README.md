@@ -1,5 +1,7 @@
 ### Hi there <img style="vertical-align:middle" src="https://user-images.githubusercontent.com/44750349/124947185-4a944500-e018-11eb-93b8-d3d00114b6c6.png" width="100" height="100" />
 
+[<img style="vertical-align:middle" src="https://user-images.githubusercontent.com/44750349/124949797-8cbe8600-e01a-11eb-9dbf-4aba9713ad3b.png" width="150" height="50" />](https://www.linkedin.com/in/avichaynega/)
+
 <!--
 **avichaynega/avichaynega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
