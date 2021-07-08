@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning at Ariel Unversity ,third year Computer Science student.
+:fire: I’m currently learning at Ariel Unversity ,third year Computer Science student.
 
 #### Programming languages:
 
