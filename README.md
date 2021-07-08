@@ -3,7 +3,7 @@
 📫 How to reach me: here :arrow_right: 
 <a href="https://www.linkedin.com/in/avichaynega/">
 <img src="https://user-images.githubusercontent.com/44750349/124949797-8cbe8600-e01a-11eb-9dbf-4aba9713ad3b.png" width="90" height="20" /> </a> or 
-<a href="https://mail.google.com/mail/u/?authuser=avichay881@gmail.com">
+<a href="mailto:avichay881@gmail.com?">
 <img src="https://icons-for-free.com/iconfiles/png/512/email+gmail+google+internet+message+icon-1320192780259745073.png" width="40" height="50" />
 </a> 
 
