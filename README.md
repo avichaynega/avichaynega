@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img style="vertical-align:middle" src="https://user-images.githubusercontent.com/44750349/124947185-4a944500-e018-11eb-93b8-d3d00114b6c6.png" width="100" height="100" />
 
 <!--
 **avichaynega/avichaynega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
