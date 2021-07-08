@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 #### Programming languages:
 
 <a href="#">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="60" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="60" height="60" /></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="60" height="60" /> 
   <img src="https://www.code4kids.d-world.co.il/wp-content/uploads/2018/06/python-logo.png" width="70" height="60" />  
   <img src="https://upload.wikimedia.org/wikipedia/he/0/05/Java_Logo.svg.png" width="45" height="60" />
-</a>
+
 
 #### Databases:
 <a href="#">
