@@ -31,12 +31,16 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="60" height="60" /> 
   <img src="https://www.code4kids.d-world.co.il/wp-content/uploads/2018/06/python-logo.png" width="70" height="60" />  
   <img src="https://upload.wikimedia.org/wikipedia/he/0/05/Java_Logo.svg.png" width="45" height="60" />
+</a>
 
 #### Databases:
+<a href="#">
 <img src="https://cdn2.iconfinder.com/data/icons/line-design-database-set-4/21/sql-badge-512.png" width="65" height="50"/> 
  <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" width="85" height="50"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" width="70" height="50"/> 
+</a>
 
 #### Applications:
+<a href="#">
 <img src="https://www.bugfixblog.com/wp-content/uploads/2017/01/android-studio-logo.png" width="80" height="50"/>
 </a>
