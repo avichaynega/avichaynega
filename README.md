@@ -1,8 +1,9 @@
 ### Hi there <img style="vertical-align:middle" src="https://user-images.githubusercontent.com/44750349/124947185-4a944500-e018-11eb-93b8-d3d00114b6c6.png" width="60" height="60" />
 How to reach me: here :arrow_right: 
-<a href="https://www.linkedin.com/in/avichaynega/" onclick="window.open(this.href,'_blank'); return false;">
-  <img align="center" src="https://user-images.githubusercontent.com/44750349/124949797-8cbe8600-e01a-11eb-9dbf-4aba9713ad3b.png" width="90" height="20" />
-</a>
+//<a href="https://www.linkedin.com/in/avichaynega/" >
+  <img align="center" src="https://user-images.githubusercontent.com/44750349/124949797-8cbe8600-e01a-11eb-9dbf-4aba9713ad3b.png" width="90" height="20" 
+    onclick="window.open(this.href,'_blank'); return false;"
+    />
 or 
 <a href="mailto:avichay881@gmail.com?">
 <img align="center" src="https://icons-for-free.com/iconfiles/png/512/email+gmail+google+internet+message+icon-1320192780259745073.png" width="40" height="50"/>
